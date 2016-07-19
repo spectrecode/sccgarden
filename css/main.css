@@ -1,0 +1,85 @@
+body {
+	background-image: url(fondo2.jpg);
+}
+
+header {
+	background: rgb(102,0,102);
+	border-color: transparent;
+	opacity: 0.7;
+	padding-top: 20px;
+	height: 200px;
+}
+
+h1	{
+	color: white;
+	font-size: 90px;
+	margin-top: -10px;
+	margin-left: 50px;
+}
+
+h2	{
+	color: #D3D3D3;
+	font-size: 50px;
+	margin-top: -50px;
+	margin-right: 50px;
+	text-align: right;
+	text-decoration: underline;
+}
+
+footer	{
+	text-align: center;
+	background: rgb(102,0,102);
+	opacity: 0.7;
+}
+
+footer a {
+	color: white;
+}
+
+h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color: FFFFFF;
+	font-weight: bold;
+}
+
+p {  
+	margin-top: 0; 
+	text-align: center;
+	text-align: justify;
+}
+
+.summary {
+	clear: top; 
+	margin: 0px 0px 0px 10px; 
+	width: 160px; 
+	display: block;
+	margin: 0 auto;
+	}
+.summary p {
+	font: italic 1em/2.2 georgia; 
+	text-align: center;
+	line-height: 1.8em;
+	}
+
+.preamble {
+	clear: left; 
+	width: 700px;
+	margin: 0 auto;
+	}
+
+.supporting {	
+	padding-left: 10px; 
+	margin-bottom: 40px;
+	}
+.explanation	{
+	clear: left; 
+	width: 700px;
+	margin: 0 auto;
+}
+.main .explanation, .participation, .benefits, .requirements {
+	clear: left; 
+	width: 700px;
+	margin: 0 auto;
+}
